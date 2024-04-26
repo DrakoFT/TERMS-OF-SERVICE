@@ -1,0 +1,41 @@
+Política de Privacidade do Bot Drako
+
+Esta Política de Privacidade descreve como o bot Drako ("nós", "nosso" ou "nos") coleta, usa e compartilha informações pessoais quando você utiliza nossos serviços.
+
+Informações que Coletamos
+
+Quando você usa o bot Drako, podemos coletar as seguintes informações:
+
+Informações de Usuário: Podemos coletar informações de perfil e outras informações fornecidas por você durante a interação com o bot, como nome de usuário, ID da conta e preferências de configuração.
+Dados de Uso: Podemos coletar informações sobre como você usa o bot, incluindo comandos utilizados, interações com funcionalidades e registros de atividades.
+Como Usamos as Informações
+
+Usamos as informações coletadas para:
+
+Fornecer e Manter o Serviço: Utilizamos as informações para operar, manter e melhorar o bot Drako e seus recursos.
+Personalizar a Experiência do Usuário: Utilizamos as informações para personalizar sua experiência e oferecer conteúdo e funcionalidades relevantes.
+Compreender e Analisar o Uso: Utilizamos as informações para compreender melhor como os usuários interagem com o bot, realizar análises e melhorar nossos serviços.
+Cumprir Requisitos Legais: Podemos usar as informações conforme necessário para cumprir obrigações legais, responder a solicitações legais ou proteger nossos direitos legais.
+Compartilhamento de Informações
+
+Não compartilhamos informações pessoais com terceiros, exceto nas seguintes circunstâncias:
+
+Com o Seu Consentimento: Podemos compartilhar informações com terceiros quando você nos fornecer seu consentimento.
+Para Cumprir Requisitos Legais: Podemos compartilhar informações quando acreditarmos de boa-fé que é necessário para cumprir uma obrigação legal, proteger nossos direitos legais ou responder a processos legais.
+Segurança das Informações
+
+Implementamos medidas de segurança para proteger as informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição.
+
+Seus Direitos e Escolhas
+
+Você pode optar por não fornecer certas informações pessoais, no entanto, isso pode limitar sua capacidade de utilizar algumas funcionalidades do bot.
+
+Atualizações da Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade periodicamente para refletir alterações em nossas práticas de privacidade. Recomendamos que você revise esta Política de Privacidade periodicamente para ficar informado sobre como protegemos suas informações.
+
+Entre em Contato
+
+Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de privacidade, entre em contato conosco em [EM BREVE].
+
+Esta Política de Privacidade entra em vigor a partir de 26/04/2024
