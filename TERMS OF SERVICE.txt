@@ -1,0 +1,20 @@
+Drako - Bot Verificado
+
+Sobre: Drako é um bot verificado que oferece moderação, diversão e recursos de registro para melhorar sua experiência na plataforma.
+
+Funcionalidades:
+
+Moderação: Drako ajuda a manter um ambiente seguro e agradável, fornecendo recursos de moderação para gerenciar o conteúdo e os usuários conforme necessário.
+Diversão: Além de moderação, Drako também oferece recursos divertidos para entretenimento, como jogos, piadas e trivia, para tornar sua experiência mais agradável.
+Registros: Drako mantém registros de várias interações e transações, permitindo o acesso a históricos de conversas, atividades e outras informações importantes.
+Como usar:
+
+Para interagir com Drako, basta iniciar uma conversa com ele ou usar comandos específicos para acionar suas funcionalidades.
+Termos de Serviço:
+Antes de usar Drako, por favor, leia e concorde com nossos Termos de Serviço disponíveis [link para os Termos de Serviço].
+
+Privacidade:
+Respeitamos sua privacidade. Todas as informações coletadas pelo Drako são usadas apenas para melhorar sua experiência e não são compartilhadas com terceiros. Para mais detalhes, consulte nossa Política de Privacidade disponível [link para a Política de Privacidade].
+
+Suporte:
+Se você tiver alguma dúvida, problema ou feedback sobre Drako, não hesite em entrar em contato conosco em [endereço de e-mail ou outro canal de suporte].
